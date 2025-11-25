@@ -6,7 +6,7 @@ aws s3 ls s3://roadmap-log-archive-bucket
 
 ## About the Project
 
-This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/server-stats), with the objective of creating a tool to **compress logs** in a given directory, **copy the `tar.gz` file to a bucket S3** and clean the directory, for **archiving purposes**.
+This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/log-archive-tool), with the objective of creating a tool to **compress logs** in a given directory, **copy the `tar.gz` file to a bucket S3** and clean the directory, for **archiving purposes**.
 
 ## Prerequisites
 
